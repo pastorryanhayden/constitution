@@ -1,5 +1,9 @@
 ---
 title: Getting started
+nextjs:
+  metadata:
+    title: Bible Baptist Church Constitution
+    description: Intro page
 ---
 
 Welcome to the page for the Bible Baptist Church constitution. You can use this page to read our constitution and quickly search for parts of it.  Below you'll find some quick links to the most commonly searched parts: {% .lead %}
